@@ -22,7 +22,7 @@ The script attempts to establish a TCP connection with the target IP on a specif
   **For windows:**
    ```bash
   'python scanner.py' or 'py scanner.py' depending on your installation
-```
+  ```
 
 ## 🎓 About
 Project developed to demonstrate understanding of computer networks, TCP/IP protocols, socket programming, and concurrency in Python.
